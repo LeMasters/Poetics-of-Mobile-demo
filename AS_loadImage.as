@@ -1,6 +1,3 @@
-// sample Actionscript file (cross-platform)
-// loads image.png
-
 var myLoader:Loader = new Loader();
 var fileRequest:URLRequest = new URLRequest("image.png");
 myLoader.load(fileRequest);
